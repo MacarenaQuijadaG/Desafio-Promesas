@@ -34,10 +34,6 @@ Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
 - [Html](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 - [Javascrpt](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-  
-## Autores ✒️
-
-- **Macarena Quijada G** - [Macarena Quijada G](https://github.com/MacarenaQuijadaG)
 
 ---
 
